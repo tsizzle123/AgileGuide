@@ -8,7 +8,11 @@ To utilize the table of contents, click the hamburger next to the line count
 
 # Intro
 
-# 
-# 1. What is Agile? 
+# 1. What is Waterfall? 
+Waterfall is exactly as it says, a linear and constant flow. When developing with Waterfall, things tend to be more stringent. Testers do not see the end product until it is 100% done. Waterfall leads to bureaucracy hold ups, flow bug fixes, and tends to stick to the initial design, no matter what.  
+
+The core principal of waterfall is following the steps outlined at the begining of the development process. [This diagram illustrates the flow](https://lucid.app/lucidchart/0075636a-267f-4d14-93f5-4e4f53dba908/edit?page=0_0&invitationId=inv_a86c91a3-9f9b-47e8-b54c-99868ea6e6e7#)
 
 
+# 2. What is Agile?
+Agile is a method developed to overcome the pitfalls of waterfall development.
