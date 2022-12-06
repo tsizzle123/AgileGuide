@@ -117,3 +117,4 @@ As we go to develop, we run into the issues the first team found during discover
 Once the chatbot "works", we test it. During testing, we run into new bugs that were not considered. These new bugs are now piled on top of the next set of development, but because we are static, and the cycle repeats. 
 
 
+# 6. Agile Role Outline
