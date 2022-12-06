@@ -13,6 +13,15 @@ Waterfall is exactly as it says, a linear and constant flow. When developing wit
 
 The core principal of waterfall is following the steps outlined at the begining of the development process. [This diagram illustrates the flow](https://lucid.app/lucidchart/0075636a-267f-4d14-93f5-4e4f53dba908/edit?page=0_0&invitationId=inv_a86c91a3-9f9b-47e8-b54c-99868ea6e6e7#)
 
+The main attraction to waterfall is the clear answer for legacy systems and processes. Waterfall makes its name when things are easily predicatble and constant. Every step of the way is followed to a tee. The key to success in waterfall is properly outlining the requirements in advance. Because everything is locked into place once a step begins, errors occur when there is no SME for the system. 
+
+Waterfall has traditionally been used by Governments and Financial Institutions because of the clear cut requirements. Utilizing the same systems, with the same constraints, for the same clients, allows for waterfall to flow. 
+
+What makes waterfall fall short is when things are not as clear. 
+
+
+
+
 
 # 2. What is Agile?
 Agile is a method developed to overcome the pitfalls of waterfall development.
