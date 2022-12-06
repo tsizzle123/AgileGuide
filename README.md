@@ -31,3 +31,54 @@ If there is any level of ambiguity in the development work, Waterfall is almost 
 
 # 3. What is Agile?
 Agile is a method developed to overcome the pitfalls of waterfall's immutable nature. Agile focuses on the people and how they interact, rather than sticking to a stringent design document. 
+
+1. The core pillars of Agile are:
+Our highest priority is to satisfy the customer
+through early and continuous delivery
+of valuable software.
+
+2. Welcome changing requirements, even late in
+development. Agile processes harness change for
+the customer's competitive advantage.
+
+3. Deliver working software frequently, from a
+couple of weeks to a couple of months, with a
+preference to the shorter timescale.
+
+4. Business people and developers must work
+together daily throughout the project.
+
+5. Build projects around motivated individuals.
+Give them the environment and support they need,
+and trust them to get the job done.
+
+6. The most efficient and effective method of
+conveying information to and within a development
+team is face-to-face conversation.
+
+7. Working software is the primary measure of progress.
+
+8. Agile processes promote sustainable development.
+The sponsors, developers, and users should be able
+to maintain a constant pace indefinitely.
+
+9. Continuous attention to technical excellence
+and good design enhances agility.
+
+10. Simplicity--the art of maximizing the amount
+of work not done--is essential.
+
+11. The best architectures, requirements, and designs
+emerge from self-organizing teams.
+
+12. At regular intervals, the team reflects on how
+to become more effective, then tunes and adjusts
+its behavior accordingly.
+
+Agile sees its biggest boost in regards to more forward thinking solutions. Agile can be broken down as granular as day by day. Although this can lead to tedium, if properly scoped, it allows for the developer teams to respond to new issues in a way that is conducive.
+
+Using the same example from above: we are developing a new solution with a brand new Salesforce product. 
+
+As we go through development, we realize that a business requirement is missing from the current solution. In agile, as things change, our delivery date and process also may change. If we need an extra day to add the missing requirements, agile allows for this. In waterfall, we may not even notice the missing requirement until testing has begun. 
+
+Agile is all about communication. The entire team needs to communicate during the end-to-end process. If the conversation remains open, the business can call out things to be quickly changed and the product owners are aware of every step we take. Waterfall often silos these processes so that the product owner may not see anything until testing or review, long after the changes could have been made. 
