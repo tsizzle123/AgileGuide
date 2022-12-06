@@ -103,13 +103,13 @@ It comes down to communication. If the team is not able to freely and openly com
 
 # Agile vs Waterfall Examples
 
-1.
+
 A team is developing a chatbot using Salesforce. The team knows that the bots can be natively integrated to websites, but they do not know how to pass data from SAP back to Salesforce using the built in funtionalty. The documentation calls out the ability to do this, but is not clear how to go about implementation. 
 
-Agile:
+**Agile:**
 In the sprint before starting the bot coding, the architect creates a dummy third party site and a local server to host the website on. He then hard codes site variables and moves through accessing them via nodeJS. After this, he tests the various methods he knows to provide SF the data. After further deliberation, he realizes what needs to be done and is able to pass the values. Had this not been possible in the sprint, the team could either adjust the business requirements, adjust the ask, or continue working towards a solution. Development was not impacted as we found this issue before it occured for the developers. If we needed, we could bring in other tasks to fill in the missing work. 
 
-Waterfall:
+**Waterfall:**
 Prior this year, we met with the business and decided projects we will take on this year. During that time, we decided that a chatbot would be part of the roadmap, to be delivered on a given date of the year. We quickly create a basic design that says the data will flow from our site to the chatbot, and the response from the agent will also be returned. We know what data we _probably_ need. We at least kind of guess how it should look based on experience. Since we never did a proof of concept, we are unaware of any issues that may occur from passing the data. We are guessing this will be two days worth of work, completely able to be handled in one sprint.  
 
 As we go to develop, we run into the issues the first team found during discovery. Because we did not account for these issues arising, we are already behind in delivery. The developers work 60+ hour weeks to overcome this which leads to burnout and coding errors which we dont find until testing. 
