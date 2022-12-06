@@ -101,7 +101,7 @@ To overcome these issues, it is essential for the architect of the team to creat
 
 It comes down to communication. If the team is not able to freely and openly communicate, things get missed. The product owners need to be comfortable in a technical environment and communicating around technical topics. They do not need to write code, but should at least understand what an API is and how it works. 
 
-# Agile vs Waterfall Examples
+# 5. Agile vs Waterfall Examples
 
 
 A team is developing a chatbot using Salesforce. The team knows that the bots can be natively integrated to websites, but they do not know how to pass data from SAP back to Salesforce using the built in funtionalty. The documentation calls out the ability to do this, but is not clear how to go about implementation. 
