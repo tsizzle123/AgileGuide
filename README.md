@@ -8,6 +8,7 @@ To utilize the table of contents, click the hamburger next to the line count
 
 # Intro
 
-#1. What is Agile? 
+# 
+# 1. What is Agile? 
 
 
